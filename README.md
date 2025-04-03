@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nelson</h1>
-<h3 align="center">A passionate Data scientist and Data engineer from Nigeria</h3>
+<h3 align="center">A  Data engineer living in United kingdom</h3>
 
 - 🔭 I’m currently working on [expainMyModel](https://github.com/Nelsonchris1/ML-explainability-app)
 
